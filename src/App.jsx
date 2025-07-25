@@ -651,4 +651,13 @@ function App() {
               <li>Generate comprehensive business reports instantly.</li>
             </ul>
             <p className="text-gray-700 font-semibold">
-              Ready to experience the full power? Click 
+              Ready to experience the full power? Click here to watch the full demo!
+            </p>
+          </div>
+        </div>
+      )}
+    </Router>
+  );
+}
+
+export default App;
